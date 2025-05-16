@@ -1,0 +1,1 @@
+OOOMG W 💯 E BEAT FALSE SON! 💯 2 STACK OMG WE ARE SEEKING SO HARD RIGHT NOW 💯 OMG I SPAWN KILLED MITHRIX 🤡 💯 OMG OMG WE ARE SO GOOD 💯 congrats bro :D go post that in the UES discord i bet everybody will praise you for copying others strats

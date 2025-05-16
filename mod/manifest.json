@@ -1,0 +1,12 @@
+{
+    "name": "IzanagisBurden",
+    "version_number": "1.0.0",
+    "website_url": "https://github.com/thoughtpatterns/izanagis_burden",
+    "description": "OOOMG W 💯 E BEAT FALSE SON! 💯 2 STACK OMG WE ARE SEEKING SO HARD RIGHT NOW 💯 OMG I SPAWN KILLED MITHRIX 🤡 💯 OMG OMG WE ARE SO GOOD 💯 congrats bro :D go post that in the UES discord i bet everybody will praise you for copying others strats",
+    "dependencies": [
+        "bbepis-BepInExPack-5.4.2108",
+        "RiskofThunder-HookGenPatcher-1.2.3",
+        "RiskofThunder-R2API_Items-1.0.1",
+        "RiskofThunder-R2API_Language-1.0.0"
+    ]
+}

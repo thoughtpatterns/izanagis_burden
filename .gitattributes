@@ -1,0 +1,4 @@
+*.dll filter=lfs diff=lfs merge=lfs -text
+*.png filter=lfs diff=lfs merge=lfs -text
+*.csproj filter=lfs diff=lfs merge=lfs -text
+izanagis_burden filter=lfs diff=lfs merge=lfs -text
